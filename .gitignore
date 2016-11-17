@@ -1,3 +1,4 @@
+.htaccess
 .htaccess.sample
 .modgit/
 .modman/
@@ -69,6 +70,8 @@ lib/Zend/
 lib/Cm/
 lib/Credis/
 lib/Magento/
+lib/Net/
+lib/Unserialize/
 LICENSE_AFL.txt
 LICENSE.html
 LICENSE.txt
