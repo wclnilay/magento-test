@@ -7,7 +7,7 @@ app/code/community/Cm/RedisSession/
 app/code/core/
 app/design/adminhtml/default/default/
 app/design/frontend/base/
-app/design/frontend/rwd/
+app/design/frontend/rwd/default/
 app/design/frontend/default/blank/
 app/design/frontend/default/default/
 app/design/frontend/default/iphone/
@@ -94,7 +94,7 @@ sitemap.xml
 skin/adminhtml/default/default/
 skin/adminhtml/default/enterprise
 skin/frontend/base/
-skin/frontend/rwd/
+skin/frontend/rwd/default/
 skin/frontend/default/blank/
 skin/frontend/default/blue/
 skin/frontend/default/default/
